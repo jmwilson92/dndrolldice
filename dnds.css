@@ -1,0 +1,169 @@
+#intro {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    background-color: green;
+    width: 50%;
+    opacity: 0.8;
+    border-radius: 25px;
+    text-align: center;
+}
+body {
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+#racetitle {
+  margin-top: -50px;
+  margin-right: 30px;
+  padding-top: 40px;
+  height:50px;
+  font-size: 42px;
+
+}
+#race {
+  margin-left: 0%;
+  margin-top: 70px;
+  background-color: green;
+  width: 45%;
+  color: black;
+  padding: 16px;
+  padding_top: 100px;
+  font-size: 16px;
+  border-radius: 25px;
+  text-align: center;
+  opacity: 0.8;
+}
+#racemenu {
+    background-color: #4CAF50;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.genderbutton {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-top: 30px;
+}
+#malebutton {
+  margin-right: 15px;
+  width: 20%;
+}
+#femalebutton {
+  margin-left: 15px;
+  width: 20%;
+}
+
+#subbutton {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.baseabil {
+    margin-left: 50%;
+    margin-top: 70px;
+    background-color: green;
+    width: 45%;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.8;
+}
+.assign {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: solid;
+  cursor: pointer;
+  margin-top: 30px;
+}
+#onedabili {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: solid;
+  cursor: pointer;
+}
+#twodabili {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: solid;
+  cursor: pointer;
+}
+#threedabili {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: solid;
+  cursor: pointer;
+}
+#fourdabili {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: solid;
+  cursor: pointer;
+}
+#fivedabili {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: solid;
+  cursor: pointer;
+}
+#sixdabili {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: solid;
+  cursor: pointer;
+}
+.gen {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: solid;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.outgen {
+  background-color: #4CAF50;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: solid;
+  cursor: pointer;
+  margin-top: 30px;
+}
